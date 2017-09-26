@@ -1,2 +1,0 @@
-# EducationSystem
-Education project
